@@ -13,7 +13,7 @@ Anna has exactly N clean and M dirty socks, which are described in the arrays `c
 For example, if Anna's washing machine can clean at most 2 socks.
 
 ```ts
-noOfWashes: number = 2;
+noOfWashes: number  = 2;
 cleanPile: number[] = [1, 2, 1, 1];
 dirtyPile: number[] = [1, 4, 3, 2, 4];
 ```
